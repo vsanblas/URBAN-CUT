@@ -1,0 +1,52 @@
+@font-face {
+    font-family: GENERAL;
+    src: url(../fuentes/GeneralSans_Complete/Fonts/OTF/GeneralSans-Regular.otf) format("opentype");
+}
+
+#zona_2_texto{
+    margin: 10%;
+}
+
+#zona_2_texto h1{
+    font-family:  "Barlow", sans-serif ;
+    color: #ffffff;
+    font-size: 34px;
+    font-weight: 800;
+    margin: 20px 0;
+}
+#zona_2_texto p{
+    margin: 20px 20px;
+    font-family:  GENERAL ;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 400;
+}
+strong{
+    color: #576fcd;
+}
+
+@media (max-width: 900px) {
+    #zona_2_texto h1{
+        font-family:  "Barlow", sans-serif ;
+        color: #ffffff;
+        font-size: 34px;
+        font-weight: 800;
+        margin: 40px 0;
+    }
+    #zona_2_texto p{
+        margin: 20px 20px;
+        font-family:  GENERAL ;
+        color: #ffffff;
+        font-size: 18px;
+        font-weight: 400;
+    }
+}
+@media (max-width: 600px) {
+    #zona_2_texto h1{
+        font-size: 22px;
+    }
+    #zona_2_texto p{
+        font-size: 16px;
+       
+    }
+}
