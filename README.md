@@ -37,7 +37,7 @@ Este es solo el comienzo. Planeo seguir mejorando la página y agregar nuevas ca
 
 Si tienes alguna sugerencia, pregunta o quieres hablar sobre el proyecto, no dudes en contactarme:
 
-- **Email:** vsanblasgomez@Kgmail.com  
+- **Email:** vsanblasgomez@gmail.com  
 - **LinkedIn:** [Mi perfil](https://www.linkedin.com/in/victor-san-blas-gomez-31119423b/)
 
 ---
