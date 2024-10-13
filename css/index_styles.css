@@ -809,6 +809,11 @@ body{
 /*MEDIA QUERIS*/
 
     @media (max-width: 900px) {
+        
+        #zona_1,#zona_4 {
+            background-attachment: scroll;
+        }
+        
         #c-1,#c-3{
             display: none;
         }
